@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="boton">Lanzar</string>
+    <string name="result1">0</string>
+    <string name="foto">foto</string>
+    <string name="informacion">TextView</string>
+    <string name="info">TextView</string>
+
+</resources>
